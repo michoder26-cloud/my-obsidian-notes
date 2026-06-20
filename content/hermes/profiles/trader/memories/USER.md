@@ -1,0 +1,5 @@
+ClawTrade MT5: login 106123714, name Thanyathep Wattanasaporn, broker Tradestone Limited (FBSTradestone-Demo), balance ~$10,302 (demo), leverage 1:500, currency EUC. XAU/USD symbol on this broker: XAUUSDc. AI agents use OpenRouter (meta-llama/llama-3-70b-instruct).
+§
+Name: Thanyathep Wattanasaporn. Trades XAU/USD gold on MT5 Demo (FBSTradestone-Demo, login 106123714, balance ~$10,302, leverage 1:500). Communicates in Thai. Prefers direct action — short replies like "1", "ทำต่อสิ" mean "just do it". Wants AI agents running live, not paper/demo mode.
+§
+User does NOT want background monitoring notifications sent to their chat — explicitly said "ผมไม่ต้องการให้ส่งมาหาผมมันน่าลำคาญ" (it's annoying). Use `deliver: local` for cron jobs, `no_agent: true` for script-only jobs. Only alert if auto-recovery fails. User is also token-conscious — asked "ถ้าคุณทำงานเบื้องหลังจะกินtoken ไหม" (does background work consume tokens?).
