@@ -22,6 +22,18 @@ title: หน้าแรก (Home)
 * [🛠️ ทักษะเฉพาะทาง (Skills)](hermes/skills/)
 * [📋 แผนงานระบบเอเจนต์ (Plans)](hermes/plans/)
 
+## 🔸 Imported Notes (โน้ตที่นำเข้าจากในเครื่อง)
+บันทึกและเอกสารอื่นๆ ที่รวบรวมมาจากในเครื่องคอมพิวเตอร์ของคุณ:
+* [📂 โน้ตนำเข้าทั้งหมด (Imported Notes Root)](imported_notes/)
+* [🖥️ เอกสารบนหน้าจอ (Desktop Notes)](imported_notes/Desktop/)
+  * [🤖 ระบบ Sub Agent (Sub Agent System)](imported_notes/Desktop/Sub_Agent/)
+  * [📈 ปัญญาประดิษฐ์การเทรด (Trading AI)](imported_notes/Desktop/TradingAI/)
+  * [📎 โครงการ Paperclip (Paperclip Master)](imported_notes/Desktop/paperclip-master/)
+* [📥 เอกสารดาวน์โหลด (Downloads)](imported_notes/Downloads/)
+* [📄 เอกสารทั่วไป (Documents)](imported_notes/Documents/)
+* [👥 ระบบหลายเอเจนต์ (Multi-Agent System)](imported_notes/multi_agent_system/)
+* [📓 MCP สำหรับ NotebookLM (NotebookLM MCP)](imported_notes/notebooklm-mcp/)
+
 ---
 
 💡 **เคล็ดลับการใช้งาน:**
