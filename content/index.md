@@ -22,17 +22,39 @@ title: หน้าแรก (Home)
 * [🛠️ ทักษะเฉพาะทาง (Skills)](hermes/skills/)
 * [📋 แผนงานระบบเอเจนต์ (Plans)](hermes/plans/)
 
-## 🔸 Imported Notes (โน้ตที่นำเข้าจากในเครื่อง)
-บันทึกและเอกสารอื่นๆ ที่รวบรวมมาจากในเครื่องคอมพิวเตอร์ของคุณ:
-* [📂 โน้ตนำเข้าทั้งหมด (Imported Notes Root)](imported_notes/)
-* [🖥️ เอกสารบนหน้าจอ (Desktop Notes)](imported_notes/Desktop/)
-  * [🤖 ระบบ Sub Agent (Sub Agent System)](imported_notes/Desktop/Sub_Agent/)
-  * [📈 ปัญญาประดิษฐ์การเทรด (Trading AI)](imported_notes/Desktop/TradingAI/)
-  * [📎 โครงการ Paperclip (Paperclip Master)](imported_notes/Desktop/paperclip-master/)
-* [📥 เอกสารดาวน์โหลด (Downloads)](imported_notes/Downloads/)
-* [📄 เอกสารทั่วไป (Documents)](imported_notes/Documents/)
-* [👥 ระบบหลายเอเจนต์ (Multi-Agent System)](imported_notes/multi_agent_system/)
-* [📓 MCP สำหรับ NotebookLM (NotebookLM MCP)](imported_notes/notebooklm-mcp/)
+## 🔸 Imported Notes (โน้ตและคลังความรู้นำเข้าจากในเครื่อง)
+รวบรวมไฟล์และบันทึกความรู้ทั้งหมดจากไดเรกทอรีต่างๆ ของเครื่องคอมพิวเตอร์คุณ แบ่งตามกลุ่มหัวข้อ:
+
+### 1. 🤖 ระบบเทรดและวิเคราะห์การลงทุน (Trading Systems & Strategy)
+* [📈 ระบบวิเคราะห์ AI สำหรับการเทรด (Trading AI)](imported_notes/Desktop/TradingAI/)
+* [🤖 ผู้ช่วยบอทเทรดคริปโต (Crypto SubAgent)](imported_notes/Desktop/Cryto_SubAgent/)
+* [🏆 กลยุทธ์การเทรดทองคำ (Sub Agent XAU Strategy)](imported_notes/Desktop/Sub_Agent/xau_trading_system/)
+* [📊 ระบบวิเคราะห์ทองคำ (XAU Analyzer)](imported_notes/Desktop/xau-analyzer/)
+* [💵 บันทึกกลยุทธ์การลงทุน DCA (DCA Notes)](imported_notes/Desktop/DCA/)
+* [💾 แฟ้มสำรองข้อมูลบอททองคำ (Claw Backup)](imported_notes/Desktop/Claw_Backup/)
+* [🔄 ระบบวิเคราะห์บอทเทรดและ n8n (Trade Automation)](imported_notes/Desktop/Trade/)
+
+### 2. 👥 การพัฒนาเอเจนต์อัจฉริยะ (Agent Workspaces & Sub-Agents)
+* [🧠 แกนสมองและทักษะย่อยเอเจนต์ (Sub Agent & Mina)](imported_notes/Desktop/Sub_Agent/)
+* [🐱 โน้ตกฎและระบบบันทึกของบอทโดราเอมอน (Doraemon Bot)](imported_notes/Desktop/doraemon/)
+* [🎨 ระบบจำลองและจัดการเอเจนต์พิกเซล (Hermes Pixel Observer)](imported_notes/Desktop/hermes-agent-pixel/)
+* [🕹️ คอนเซ็ปต์และโครงสร้าง Pixel Agents (Pixel Agents Core)](imported_notes/Desktop/pixel-agents/)
+* [📎 โครงข่ายจัดการพูลเอเจนต์ Paperclip (Paperclip Agent Pool)](imported_notes/Desktop/paperclip-master/)
+* [🗣️ การใช้งานคำสั่งเสียงภาษาเยอรมัน (Stimen Auf Deutch)](imported_notes/Desktop/StimenAufDeutch/)
+
+### 3. 💻 การเขียนโปรแกรมและการพัฒนาเว็บไซต์ (Software Development)
+* [🐍 บันทึกทักษะพื้นฐานภาษา Python (Python Basic)](imported_notes/Desktop/Python-basic/)
+* [🔌 โครงสร้างระบบหลังบ้าน API Django (Django Backend)](imported_notes/Desktop/Api-django/)
+* [🌐 โครงสร้างระบบส่งข้อความหน้าบ้าน (Message Frontend)](imported_notes/Desktop/message-frontend/)
+* [📚 คู่มือเทคโนโลยีและเว็บโปรแกรมมิ่ง (Web Lernen & Frontend)](imported_notes/Desktop/Web-lernen/)
+* [🖥️ การตั้งค่าระบบเซิร์ฟเวอร์คลาวด์ VPS (VPS Settings)](imported_notes/Desktop/VPS1/)
+* [🤖 ระบบวิจัยโครงสร้าง Multi-Agent (Multi-Agent System)](imported_notes/multi_agent_system/)
+* [📓 โครงการเชื่อมต่อ MCP NotebookLM (NotebookLM MCP)](imported_notes/notebooklm-mcp/)
+
+### 4. 📥 ดาวน์โหลดและเอกสารทั่วไป (Downloads & Documents)
+* [📥 ไฟล์คู่มือการเทรดและสถิติวิเคราะห์ (Downloads Folder)](imported_notes/Downloads/)
+* [📄 บันทึกทั่วไปและหนังสือ Kindle (Documents Folder)](imported_notes/Documents/)
+* [📂 โฟลเดอร์นำเข้าทั้งหมด (Imported Notes Root)](imported_notes/)
 
 ---
 
